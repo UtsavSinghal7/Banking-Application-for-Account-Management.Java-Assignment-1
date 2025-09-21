@@ -41,7 +41,7 @@ Account class – Represents a single bank account. Contains attributes (account
 
 BankApp class – Handles all user interactions. Stores multiple accounts in an array and provides methods for creating accounts, searching accounts, depositing, withdrawing, updating, and listing.
 
-BankingAppMain class – Contains the main() method that starts the application and shows the menu.
+Main class – Contains the main() method that starts the application and shows the menu.
 
 When the program runs, it displays a menu with choices (create, deposit, withdraw, etc.).
 
