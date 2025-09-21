@@ -1,4 +1,3 @@
-# Banking-Application-for-Account-Management.Java-Assignment-1
 import java.util.Scanner;
 
 class Account {
@@ -175,9 +174,9 @@ class UserInterface {
     }
 }
 
-public class BankingApp {
+ class Main {
     public static void main(String[] args) {
-        UserInterface us = new UserInterface(100); // capacity of 100 accounts
+        UserInterface us = new UserInterface(100); 
         us.mainMenu();
     }
 }
